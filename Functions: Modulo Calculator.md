@@ -11,9 +11,22 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
+```
+a=(0==True)
+b=(False==False)
+c=True+True
+d=False+9
+print(f"a is {a}")
+print(f"b is {b}")
+print(f"c: {c}")
+print(f"d: {d}")
+```
 
-Add code Here
+
 
 ## Output
+<img width="477" height="205" alt="image" src="https://github.com/user-attachments/assets/d8e3f9bb-5881-49bc-a85e-3b40825d3944" />
+
 
 ## Result
+Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully
